@@ -20,3 +20,4 @@
 #define LCOR 20
 #define RCOR 21
 #define ENTERO 22
+#define CADENA 23
