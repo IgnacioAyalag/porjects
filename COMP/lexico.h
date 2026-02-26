@@ -14,7 +14,7 @@
 #define MEN 14
 #define POR 15
 #define BAR 16
-#deine EQL 17
+#define EQUAL 17
 #define LPAR 18
 #define RPAR 19
 #define LCOR 20
